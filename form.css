@@ -1,0 +1,19 @@
+#q2, #q31, #q32, #q4 , #q5, #qsta, #q7, #q8, #q9, #q10{
+	visibility: hidden;
+	text-align: center;
+}
+
+body{
+    background-image: url("background_image.jpg");
+	background-size:cover;
+    width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+}
+
+#q1,#q2, #q31, #q32, #q4 , #q5, #qsta, #q7, #q8, #q9, #q10{
+	text-align:center;
+	color:white;
+	font-size: 20px;
+	margin:1%;
+}
